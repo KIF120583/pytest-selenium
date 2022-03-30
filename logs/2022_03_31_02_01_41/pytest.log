@@ -1,0 +1,57 @@
+DEBUG    web_api.py:logging_handler.py:30 Wait for locating element : //*[@id="gatsby-focus-wrapper"]/div[1]/div[2]/div[3]/a
+ERROR    web_api.py:logging_handler.py:36 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="gatsby-focus-wrapper"]/div[1]/div[2]/div[3]/a"}
+  (Session info: chrome=100.0.4896.60)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00E47413+2389011]
+	Ordinal0 [0x00DD9F61+1941345]
+	Ordinal0 [0x00CCC658+837208]
+	Ordinal0 [0x00CF91DD+1020381]
+	Ordinal0 [0x00CF949B+1021083]
+	Ordinal0 [0x00D26032+1204274]
+	Ordinal0 [0x00D14194+1130900]
+	Ordinal0 [0x00D24302+1196802]
+	Ordinal0 [0x00D13F66+1130342]
+	Ordinal0 [0x00CEE546+976198]
+	Ordinal0 [0x00CEF456+980054]
+	GetHandleVerifier [0x00FF9632+1727522]
+	GetHandleVerifier [0x010ABA4D+2457661]
+	GetHandleVerifier [0x00EDEB81+569713]
+	GetHandleVerifier [0x00EDDD76+566118]
+	Ordinal0 [0x00DE0B2B+1968939]
+	Ordinal0 [0x00DE5988+1989000]
+	Ordinal0 [0x00DE5A75+1989237]
+	Ordinal0 [0x00DEECB1+2026673]
+	BaseThreadInitThunk [0x76846739+25]
+	RtlGetFullPathName_UEx [0x776E8E7F+1215]
+	RtlGetFullPathName_UEx [0x776E8E4D+1165]
+
+DEBUG    web_api.py:logging_handler.py:30 Wait for locating element : //*[@id="gatsby-focus-wrapper"]/div[1]/div[2]/div[3]/a
+ERROR    web_api.py:logging_handler.py:36 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="gatsby-focus-wrapper"]/div[1]/div[2]/div[3]/a"}
+  (Session info: chrome=100.0.4896.60)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00E47413+2389011]
+	Ordinal0 [0x00DD9F61+1941345]
+	Ordinal0 [0x00CCC658+837208]
+	Ordinal0 [0x00CF91DD+1020381]
+	Ordinal0 [0x00CF949B+1021083]
+	Ordinal0 [0x00D26032+1204274]
+	Ordinal0 [0x00D14194+1130900]
+	Ordinal0 [0x00D24302+1196802]
+	Ordinal0 [0x00D13F66+1130342]
+	Ordinal0 [0x00CEE546+976198]
+	Ordinal0 [0x00CEF456+980054]
+	GetHandleVerifier [0x00FF9632+1727522]
+	GetHandleVerifier [0x010ABA4D+2457661]
+	GetHandleVerifier [0x00EDEB81+569713]
+	GetHandleVerifier [0x00EDDD76+566118]
+	Ordinal0 [0x00DE0B2B+1968939]
+	Ordinal0 [0x00DE5988+1989000]
+	Ordinal0 [0x00DE5A75+1989237]
+	Ordinal0 [0x00DEECB1+2026673]
+	BaseThreadInitThunk [0x76846739+25]
+	RtlGetFullPathName_UEx [0x776E8E7F+1215]
+	RtlGetFullPathName_UEx [0x776E8E4D+1165]
+
+DEBUG    web_api.py:logging_handler.py:30 Wait for locating element : //*[@id="gatsby-focus-wrapper"]/div[1]/div[2]/div[3]/a
